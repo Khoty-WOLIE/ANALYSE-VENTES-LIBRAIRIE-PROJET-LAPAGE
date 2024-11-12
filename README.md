@@ -3,6 +3,10 @@ Analysez les ventes d'une librairie avec R ou Python
 
 # Analyse des Données de Vente et du Comportement Client - Projet Lapage
 
+## Aperçu de l'entreprise
+
+![Aperçu du site web](images/DA_projet6.PNG)
+
 ## Contexte
 
 Je viens de rejoindre **Lapage**, une librairie historique qui s'est lancée dans la vente en ligne il y a deux ans. L’entreprise souhaite désormais analyser ses données pour mieux comprendre son activité et ajuster sa stratégie en conséquence. Mon rôle en tant que Data Analyst est de fournir des insights sur les performances de vente et le comportement des clients, afin de soutenir la prise de décision stratégique de l'équipe Marketing.

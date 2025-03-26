@@ -1,69 +1,72 @@
-# OPC_DATA_ANALYST_PROJET6
-Analysez les ventes d'une librairie avec R ou Python
-
-# Analyse des Données de Vente et du Comportement Client - Projet Lapage
-
 ## Aperçu de l'entreprise
 
 ![Aperçu du site web](images/DA_projet6.PNG)
 
-## Contexte
+## 📌 Contexte professionnel
 
-Je viens de rejoindre **Lapage**, une librairie historique qui s'est lancée dans la vente en ligne il y a deux ans. L’entreprise souhaite désormais analyser ses données pour mieux comprendre son activité et ajuster sa stratégie en conséquence. Mon rôle en tant que Data Analyst est de fournir des insights sur les performances de vente et le comportement des clients, afin de soutenir la prise de décision stratégique de l'équipe Marketing.
+Dans le cadre d’une mission en tant que **Data Analyst** chez **Lapage**, une librairie historique ayant développé son activité de vente en ligne, j’ai intégré l’équipe Marketing afin d’analyser les performances commerciales et le comportement des clients.  
+L’objectif de cette mission est de produire des **analyses décisionnelles** permettant à l’entreprise d’affiner sa stratégie commerciale et de fidélisation.
 
-L’équipe Marketing que j'intègre comprend :
-- **Annabelle**, Responsable Marketing
-- **Julie**, Business Intelligence Analyst
-- **Antoine**, Business Analyst
+### Équipe projet :
+- **Annabelle** – Responsable Marketing  
+- **Julie** – Business Intelligence Analyst  
+- **Antoine** – Business Analyst
 
-## Objectifs du Projet
+## 🎯 Objectifs de la mission
 
-L’analyse de données sera divisée en deux parties :
+1. **Analyser les indicateurs de performance des ventes en ligne**
+2. **Étudier le comportement des clients e-commerce**
+3. **Préparer une présentation claire des résultats pour orienter les décisions stratégiques**
 
-1. **Analyse des Indicateurs de Vente** : Demandée par Antoine, cette analyse vise à évaluer les performances de vente en ligne et à identifier les produits les plus performants, les tendances de vente, ainsi que d'autres indicateurs clés.
-   
-2. **Analyse du Comportement des Clients** : Cette analyse, coordonnée avec Julie, permettra de comprendre le profil et le comportement des clients en ligne. L’objectif est de comparer ces insights avec les données des librairies physiques pour mieux adapter la stratégie de fidélisation et d’engagement des clients.
+## 🧩 Étapes de réalisation
 
-## Étapes du Projet
+### 1. Analyse des indicateurs de vente
 
-### Étape 1 : Analyse des Indicateurs de Vente
+- Étude des indicateurs clés : chiffre d’affaires, volume de ventes par produit/catégorie
+- Identification des **tendances saisonnières** et pics de vente
+- Analyse commandée par Antoine à partir d’un cahier des charges transmis par email
 
-- **Objectif** : Étudier les indicateurs de vente pour évaluer la performance des produits et identifier les opportunités de croissance.
-- **Détails** :
-  - Calculer les principaux indicateurs tels que le chiffre d’affaires, le nombre de ventes par produit et par catégorie, et les tendances de vente.
-  - Analyser les variations saisonnières ou mensuelles pour identifier des pics de vente et des périodes creuses.
-  - Cette analyse sera basée sur les demandes détaillées d’Antoine, transmises par email.
+### 2. Analyse du comportement des clients
 
-### Étape 2 : Analyse du Comportement des Clients
+- Étude du panier moyen, du taux de rétention et du nombre d’achats par client
+- Segmentation des clients actifs selon leurs préférences
+- Comparaison entre **clients en ligne** et **clients en boutique physique**
 
-- **Objectif** : Analyser le comportement des clients en ligne pour dégager des tendances de consommation.
-- **Détails** :
-  - Étudier le panier moyen, le nombre d’achats par client, et le taux de rétention.
-  - Identifier les segments de clientèle les plus actifs en ligne et analyser leurs préférences en termes de produits et de catégories.
-  - Comparer ces résultats avec les données des clients des librairies physiques pour en dégager des différences ou similitudes.
+### 3. Communication des résultats
 
-### Étape 3 : Préparation de la Présentation des Résultats
+- Création d’un **PowerPoint ou Notebook** incluant :
+  - Visualisations claires
+  - Résultats clés
+  - Recommandations marketing
+- Structuration des livrables pour faciliter leur exploitation par les parties prenantes
 
-- **Objectif** : Communiquer les résultats de l’analyse aux parties prenantes de manière claire et concise.
-- **Détails** :
-  - Préparer une présentation PowerPoint ou un rapport dans un notebook pour expliquer les principaux insights, les tendances et les recommandations basées sur les analyses de vente et de comportement client.
-  - Structurer les conclusions de manière à soutenir les décisions stratégiques de l’équipe Marketing.
+## 📂 Livrables
 
-## Détails Techniques
+- **Notebook Python** : Analyses complètes (vente + client)
+- **Présentation PowerPoint** ou slides dans le notebook
+- **Synthèse des indicateurs demandés par Antoine**
+- **Comparatif client physique vs client en ligne**
 
-- **Fichiers** :
-  - **Mail d’Antoine** : Contient les détails des indicateurs de vente à analyser.
-  - **Fichier ZIP des bases de données** : Ensemble de données nettoyé pour l’analyse, incluant les données de vente en ligne et les informations client.
-  - **Conversation avec Julie (PDF)** : Précisions sur les objectifs de l'analyse des clients et les attentes spécifiques.
+## 🛠️ Compétences mobilisées
 
-- **Langage de Programmation** : Libre choix entre **Python** et **R** pour mener l’analyse. J’ai la possibilité d’utiliser **Jupyter Notebook** ou **R Markdown**.
+- Analyse de données transactionnelles
+- Étude du comportement client (segmentation, rétention, panier moyen)
+- Data visualisation avec **Matplotlib** / **Seaborn**
+- Communication de résultats orientée décision
 
-- **Compétences Utilisées** :
-  - Analyse des indicateurs de vente.
-  - Analyse du comportement client.
-  - Visualisation et communication des résultats.
-  - Utilisation de Python ou R pour le traitement de grandes bases de données.
+## ✅ Résultats et impact
 
-## Résumé
+- Identification des **produits les plus rentables** et des **périodes clés de vente**
+- Mise en évidence de comportements clients spécifiques au canal en ligne
+- Recommandations concrètes pour améliorer la **fidélisation** et le **ciblage marketing**
+- Contribution directe à l’optimisation de la stratégie commerciale omnicanale
 
-Ce projet me permet de contribuer à l’optimisation de la stratégie de **Lapage** en fournissant des insights basés sur les performances de vente et le comportement client en ligne. L’objectif est d’identifier les opportunités de croissance et d’améliorer la fidélisation client, que ce soit sur le site de vente en ligne ou dans les librairies physiques.
+---
+
+## 🔍 Aperçu
+
+> Ce projet démontre ma capacité à **produire des analyses commerciales stratégiques**, croiser des sources de données diverses, et **communiquer les résultats de manière claire** à des équipes métiers.
+
+---
+
+*Mission réalisée dans un cadre professionnel simulé, avec des responsabilités équivalentes à celles d’un Data Analyst en entreprise.*
